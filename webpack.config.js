@@ -1,20 +1,28 @@
 const webpack = require('webpack');
 const path = require('path');
-const CopyPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const LodashModuleReplacementPlugin = require('lodash-webpack-plugin');
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const { CleanWebpackPlugin } = require('clean-webpack-plugin');
+const TerserPlugin = require('terser-webpack-plugin')
 
 const config = {
   entry: [
     'react-hot-loader/patch',
     './src/index.js'
   ],
+  devServer: {
+    contentBase: './build',
+    port: 3000
+  },
   output: {
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'build'),
     filename: '[name].[contenthash].js'
+  },
+  optimization: {
+    minimize: true,
+    minimizer: [new TerserPlugin()] // replacement for uglify-js
   },
   module: {
     rules: [
@@ -41,6 +49,10 @@ const config = {
             }
           }
         ]
+      },
+      {
+        test: /\.html$/,
+        loader: 'html-loader'
       }
     ]
   },
@@ -55,7 +67,10 @@ const config = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      appMountId: 'app',
+      appMountId: 'root',
+      title: 'customTemplate',
+      template: __dirname + '/src/index.html',
+      // inject: 'body',
       filename: 'index.html'
     }),
     new LodashModuleReplacementPlugin,
@@ -66,10 +81,9 @@ const config = {
     new MiniCssExtractPlugin(),
     new CleanWebpackPlugin()
   ],
-  devServer: {
-    contentBase: './dist'
-  },
+
   optimization: {
+    moduleIds: 'hashed',
     runtimeChunk: 'single',
     splitChunks: {
       cacheGroups: {
