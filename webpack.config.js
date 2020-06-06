@@ -54,9 +54,6 @@ const config = {
     }
   },
   plugins: [
-    new CopyPlugin([
-      { from: 'src/index.html' }
-    ]),
     new HtmlWebpackPlugin({
       appMountId: 'app',
       filename: 'index.html'
