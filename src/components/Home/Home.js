@@ -23,8 +23,9 @@ const movies = [
 
 const Navbar = () => {
     return (
-        <div>
+        <div className="navbar">
             <nav>
+                <div>Logo</div>
                 <ul className="nav__links">
                     <li>
                         <a href="#">Services</a>
@@ -37,7 +38,6 @@ const Navbar = () => {
                     </li>
                 </ul>
             </nav>
-            Navbar
         </div>
     )
 }
@@ -54,6 +54,9 @@ const Home = ({
 }) => (
     <div className="rmdb-home">
         <Navbar />
+        <div style={{ height: '100px', width: 'auto', background: 'red' }}>
+            testing
+        </div>
         <div>
             <SearchBar callback={searchMovies} />
             {/* <HeroImage
