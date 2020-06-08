@@ -1,0 +1,27 @@
+.rmdb-navigation {
+  width: 100%;
+  height: 50px;
+
+  color: #353535;
+  position: relative;
+  padding: 20px;
+  box-sizing: border-box;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.rmdb-navigation-content {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.rmdb-navigation-content p {
+  font-family: Oswald, sans-serif;
+  font-size: 22px;
+  float: left;
+  color: #353535;
+  padding-right: 10px;
+  text-decoration: none;
+  margin: 0;
+}

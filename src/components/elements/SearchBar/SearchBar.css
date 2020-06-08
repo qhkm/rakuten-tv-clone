@@ -1,0 +1,66 @@
+.rmdb-searchbar {
+  max-width: 1080px;
+  height: 125px;
+  margin: 0 auto;
+  position: relative;
+  padding: 30px 0;
+  box-sizing: border-box;
+  color: #fff;
+}
+
+.rmdb-searchbar-content {
+  max-width: 1080px;
+  width: 70%;
+
+  height: 55px;
+  float: left;
+  left: 320px;
+  border-bottom: 2px solid #757575;
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+
+  position: relative;
+  color: #757575;
+}
+.tmdb-logo {
+  width: 30%;
+}
+.rmdb-tmdb {
+  width: 180px;
+  position: absolute;
+
+  top: 25px;
+  float: left;
+}
+
+.rmdb-searchbar-input {
+  font-family: Oswald, sans-serif;
+
+  font-size: 38px;
+  position: absolute;
+  left: 20px;
+  top: 7px;
+  border: 0;
+  background: transparent;
+  height: 40px;
+  color: #757575;
+}
+
+.rmdb-searchbar-input:focus {
+  outline: none;
+}
+
+@media screen and (max-width: 720px) {
+  .rmdb-searchbar-content {
+    left: 0;
+    width: 100%;
+  }
+  .rmdb-searchbar-input {
+    font-size: 28px;
+    color: #fff;
+  }
+  .rmdb-tmdb {
+    display: none;
+  }
+}

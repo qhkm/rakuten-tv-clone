@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: 'grey';
+}
+
+li,
+a,
+button {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav__links {
+    list-style: none;
+
+    li {
+        display: inline-block;
+        padding: 20px 20px;
+
+        a {
+            transition: all 0.3s ease 0s;
+        }
+
+        a:hover {
+            color: #0088a9;
+        }
+    }
+}

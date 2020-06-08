@@ -1,0 +1,37 @@
+.rmdb-actor {
+  box-sizing: border-box;
+}
+
+.rmdb-actor img {
+  width: 40%;
+  height: auto;
+  float: left;
+  box-sizing: border-box;
+}
+
+.rmdb-actor-name {
+  font-family: Oswald, sans-serif;
+  font-size: 32px;
+  color: #fff;
+  float: left;
+  margin: 10px 20px;
+  width: 40%;
+  box-sizing: border-box;
+}
+
+.rmdb-actor-character {
+  font-family: Oswald, sans-serif;
+  font-size: 18px;
+  color: #fff;
+  float: left;
+  margin: 0 20px 10px 20px;
+  width: 40%;
+  box-sizing: border-box;
+}
+
+span.rmdb-actor-character {
+  color: #01d277;
+}
+span.rmdb-actor-name {
+  color: #353535;
+}
