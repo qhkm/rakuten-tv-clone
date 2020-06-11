@@ -1,0 +1,1608 @@
+{
+    "data": {
+        "type": "lists",
+        "id": "free-peliculas-gratis",
+        "numerical_id": 5788,
+        "category": "avod",
+        "short_name": "Películas Gratis",
+        "content_type": "Movie",
+        "is_b2b": false,
+        "wktv_code": null,
+        "only_coupon": false,
+        "kind": "regular",
+        "is_recommendation": false,
+        "name": "FREE - Películas Gratis",
+        "additional_images": {
+            "pattern": "https://images-2.wuaki.tv/system/brandable_photos/11326/original/peliculas-gratis-1576236070.jpeg",
+            "header": "https://images-2.wuaki.tv/system/brandable_photos/11330/original/peliculas-gratis-1576236078.jpeg"
+        },
+        "contents": {
+            "data": [
+                {
+                    "type": "movies",
+                    "id": "volver-hacia-atras",
+                    "numerical_id": 124881,
+                    "title": "Volver hacia atrás",
+                    "year": 2015,
+                    "duration": 89,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "7",
+                        "numerical_id": 7,
+                        "name": "12",
+                        "age": 12,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 12 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-3.wuaki.tv/system/artworks/124881/master/volver-hacia-atras-1589269740.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/201196/original/snapshot-1590669485.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.7,
+                        "amount_of_votes": 253,
+                        "formatted_amount_of_votes": "253"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "una-familia-embarazosa",
+                    "numerical_id": 124891,
+                    "title": "Una Familia Embarazosa",
+                    "year": 2017,
+                    "duration": 93,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "4",
+                        "numerical_id": 4,
+                        "name": "13",
+                        "age": 13,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 13 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-0.wuaki.tv/system/artworks/124891/master/una-familia-embarazosa-1589282653.jpeg",
+                        "snapshot": "https://images-0.wuaki.tv/system/shots/201197/original/snapshot-1590669486.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.6,
+                        "amount_of_votes": 146,
+                        "formatted_amount_of_votes": "146"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "la-leyenda-de-barney-thomson",
+                    "numerical_id": 124883,
+                    "title": "La Leyenda de Barney Thomson",
+                    "year": 2015,
+                    "duration": 96,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "8",
+                        "numerical_id": 8,
+                        "name": "16",
+                        "age": 16,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 16 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-0.wuaki.tv/system/artworks/124883/master/la-leyenda-de-barney-thomson-1589278867.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/194246/original/snapshot-1590663655.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6.1,
+                        "amount_of_votes": 96,
+                        "formatted_amount_of_votes": "96"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "spy-kids-todo-el-tiempo-del-mundo-4d",
+                    "numerical_id": 124889,
+                    "title": "Spy Kids: Todo el tiempo del mundo 4D",
+                    "year": 2011,
+                    "duration": 87,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-2.wuaki.tv/system/artworks/124889/master/spy-kids-4-1589273663.jpeg",
+                        "snapshot": "https://images-0.wuaki.tv/system/shots/191109/original/snapshot-1590661621.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 4.7,
+                        "amount_of_votes": 611,
+                        "formatted_amount_of_votes": "611"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "fama--2",
+                    "numerical_id": 15059,
+                    "title": "Fama",
+                    "year": 2009,
+                    "duration": 102,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/15059/master/fama-1558431830.jpeg",
+                        "snapshot": "https://images-1.wuaki.tv/system/shots/186171/original/snapshot-1590658869.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 7.3,
+                        "amount_of_votes": 66,
+                        "formatted_amount_of_votes": "66"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "celebrity",
+                    "numerical_id": 912,
+                    "title": "Celebrity",
+                    "year": 1998,
+                    "duration": 108,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "4",
+                        "numerical_id": 4,
+                        "name": "13",
+                        "age": 13,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 13 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-0.wuaki.tv/system/artworks/912/master/celebrity-1558427824.jpeg",
+                        "snapshot": "https://images-1.wuaki.tv/system/shots/188234/original/snapshot-1590660093.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6,
+                        "amount_of_votes": 249,
+                        "formatted_amount_of_votes": "249"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "la-gran-gilly-hopkins",
+                    "numerical_id": 49263,
+                    "title": "La Gran Gilly Hopkins",
+                    "year": 2015,
+                    "duration": 97,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-3.wuaki.tv/system/artworks/49263/master/la-gran-gilly-hopkins-1558456394.jpeg",
+                        "snapshot": "https://images-1.wuaki.tv/system/shots/193477/original/snapshot-1590663086.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6.6,
+                        "amount_of_votes": 162,
+                        "formatted_amount_of_votes": "162"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "pompeya",
+                    "numerical_id": 16185,
+                    "title": "Pompeya",
+                    "year": 2013,
+                    "duration": 100,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "7",
+                        "numerical_id": 7,
+                        "name": "12",
+                        "age": 12,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 12 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-2.wuaki.tv/system/artworks/16185/master/pompeya-1558432289.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/189292/original/snapshot-1590660675.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.5,
+                        "amount_of_votes": 2,
+                        "formatted_amount_of_votes": "2"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "un-plan-perfecto-gambit",
+                    "numerical_id": 3548,
+                    "title": "Un plan perfecto (Gambit)",
+                    "year": 2012,
+                    "duration": 89,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/3548/master/un-plan-perfecto-gambit-1558429214.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/197787/original/snapshot-1590666261.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.3,
+                        "amount_of_votes": 430,
+                        "formatted_amount_of_votes": "430"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "la-maldicion-del-escorpion-de-jade",
+                    "numerical_id": 22499,
+                    "title": "La Maldición del Escorpión de Jade",
+                    "year": 2001,
+                    "duration": 96,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-3.wuaki.tv/system/artworks/22499/master/la-maldicion-del-escorpion-de-jade-1565020192.jpeg",
+                        "snapshot": "https://images-0.wuaki.tv/system/shots/196646/original/snapshot-1590665434.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6.5,
+                        "amount_of_votes": 455,
+                        "formatted_amount_of_votes": "455"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "atraco-en-familia",
+                    "numerical_id": 54650,
+                    "title": "Atraco en Familia",
+                    "year": 2017,
+                    "duration": 90,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "3",
+                        "numerical_id": 3,
+                        "name": "7",
+                        "age": 7,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para niños de hasta 7 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-3.wuaki.tv/system/artworks/54650/master/atraco-en-familia-1558460397.jpeg",
+                        "snapshot": "https://images-3.wuaki.tv/system/shots/197576/original/snapshot-1590666097.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.9,
+                        "amount_of_votes": 158,
+                        "formatted_amount_of_votes": "158"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "porque-lo-digo-yo",
+                    "numerical_id": 607,
+                    "title": "¡Porque lo digo yo!",
+                    "year": 2007,
+                    "duration": 97,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-2.wuaki.tv/system/artworks/607/master/porque-lo-digo-yo-1558427672.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/197845/original/snapshot-1590666309.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6,
+                        "amount_of_votes": 443,
+                        "formatted_amount_of_votes": "443"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "irrational-man",
+                    "numerical_id": 31704,
+                    "title": "Irrational Man",
+                    "year": 2015,
+                    "duration": 94,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "7",
+                        "numerical_id": 7,
+                        "name": "12",
+                        "age": 12,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 12 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-0.wuaki.tv/system/artworks/31704/master/irrational-man-1558443294.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/194245/original/snapshot-1590663654.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6.5,
+                        "amount_of_votes": 1649,
+                        "formatted_amount_of_votes": "1,6K"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "diana",
+                    "numerical_id": 4620,
+                    "title": "Diana",
+                    "year": 2013,
+                    "duration": 112,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/4620/master/diana-1558429695.jpeg",
+                        "snapshot": "https://images-1.wuaki.tv/system/shots/192544/original/snapshot-1590662420.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.6,
+                        "amount_of_votes": 340,
+                        "formatted_amount_of_votes": "340"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "el-hipnotista",
+                    "numerical_id": 4047,
+                    "title": "El hipnotista",
+                    "year": 2012,
+                    "duration": 116,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "8",
+                        "numerical_id": 8,
+                        "name": "16",
+                        "age": 16,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 16 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-3.wuaki.tv/system/artworks/4047/master/el-hipnotista-1558429388.jpeg",
+                        "snapshot": "https://images-0.wuaki.tv/system/shots/197065/original/snapshot-1590665719.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.4,
+                        "amount_of_votes": 95,
+                        "formatted_amount_of_votes": "95"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "ms1-maxima-seguridad",
+                    "numerical_id": 2653,
+                    "title": "MS1: Máxima seguridad",
+                    "year": 2012,
+                    "duration": 95,
+                    "label": "Gratis",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "8",
+                        "numerical_id": 8,
+                        "name": "16",
+                        "age": 16,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 16 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/2653/master/ms1-maxima-seguridad-1562144629.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/194737/original/snapshot-1590664050.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.9,
+                        "amount_of_votes": 1179,
+                        "formatted_amount_of_votes": "1,2K"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "bon-appetit-04ae3428-81be-45f4-a563-168fcbc96aba",
+                    "numerical_id": 120831,
+                    "title": "Bon appétit",
+                    "year": 2010,
+                    "duration": 91,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "1",
+                        "numerical_id": 1,
+                        "name": "TP",
+                        "age": 0,
+                        "adult": false,
+                        "description": "Apta para todos los públicos",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/120831/master/bon-appetit-1583248067.jpeg",
+                        "snapshot": "https://images-2.wuaki.tv/system/shots/187097/original/snapshot-1590659453.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 5.8,
+                        "amount_of_votes": 16,
+                        "formatted_amount_of_votes": "16"
+                    },
+                    "rating": {
+                        "average": 3,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "type": "movies",
+                    "id": "mi-vida-ahora",
+                    "numerical_id": 21191,
+                    "title": "Mi vida ahora",
+                    "year": 2013,
+                    "duration": 100,
+                    "label": "RTV Suscripción",
+                    "classification": {
+                        "type": "classifications",
+                        "id": "8",
+                        "numerical_id": 8,
+                        "name": "16",
+                        "age": 16,
+                        "adult": false,
+                        "description": "Mostrar sólo los contenidos autorizados para los niños de hasta 16 años",
+                        "default": false
+                    },
+                    "images": {
+                        "artwork": "https://images-1.wuaki.tv/system/artworks/21191/master/mi-vida-ahora-1562145034.jpeg",
+                        "snapshot": "https://images-1.wuaki.tv/system/shots/195871/original/snapshot-1590664835.jpeg",
+                        "ribbons": []
+                    },
+                    "highlighted_score": {
+                        "score": 6.6,
+                        "amount_of_votes": 532,
+                        "formatted_amount_of_votes": "532"
+                    },
+                    "rating": {
+                        "average": 4,
+                        "scale": 5
+                    },
+                    "labels": {
+                        "audio_qualities": [
+                            {
+                                "type": "audio_qualities",
+                                "id": "2.0",
+                                "numerical_id": 2,
+                                "name": "2.0 (Stereo)",
+                                "abbr": "2.0",
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/2-0-stereo-1456155689.png"
+                            }
+                        ],
+                        "hdr_types": [
+                            {
+                                "type": "hdr_types",
+                                "id": "NONE",
+                                "numerical_id": 1,
+                                "name": "SDR",
+                                "abbr": "NONE",
+                                "image": null
+                            }
+                        ],
+                        "purchase_types": [
+                            {
+                                "type": "purchase_types",
+                                "id": "5",
+                                "numerical_id": 5,
+                                "is_recurring": false,
+                                "name": "AVOD",
+                                "label": "Gratis con anuncios",
+                                "kind": "avod",
+                                "expires_after_in_seconds": null,
+                                "available_time_in_seconds": null
+                            }
+                        ],
+                        "video_qualities": [
+                            {
+                                "type": "video_qualities",
+                                "id": "SD",
+                                "numerical_id": 2,
+                                "name": "SD",
+                                "abbr": "SD",
+                                "position": 0,
+                                "image": "https://images-1.wuaki.tv/system/logos/2/original/sd-1456155688.png"
+                            },
+                            {
+                                "type": "video_qualities",
+                                "id": "HD",
+                                "numerical_id": 1,
+                                "name": "HD",
+                                "abbr": "HD",
+                                "position": 1,
+                                "image": "https://images-0.wuaki.tv/system/logos/1/original/hd-1456155687.png"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "meta": {
+                "pagination": {
+                    "page": 1,
+                    "count": 149,
+                    "per_page": 18,
+                    "offset": 0,
+                    "total_pages": 9
+                }
+            }
+        }
+    }
+}
